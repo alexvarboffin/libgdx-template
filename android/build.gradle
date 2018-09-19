@@ -25,7 +25,7 @@ dependencies {
     natives "com.badlogicgames.gdx:gdx-bullet-platform:$gdxVersion:natives-x86_64"
 }
 android {
-    buildToolsVersion "28.0.1"
+    buildToolsVersion '28.0.2'
     compileSdkVersion 27
     sourceSets {
         main {
